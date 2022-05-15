@@ -1,0 +1,18 @@
+pos0:
+[ INFO] [1652632172.557190425]:       detect reflect position is 1.263457, -0.663330, index is 3046.
+[ INFO] [1652632172.557200416]:       detect reflect position is 1.995271, -0.466150, index is 3337.
+[ INFO] [1652632172.557225174]:       detect reflect position is 2.495307, -0.058805, index is 3573.
+[ INFO] [1652632172.557259567]:       detect reflect position is 2.555364, 0.694277, index is 3904.
+[ INFO] [1652632172.557289816]:       detect reflect position is 2.205966, 1.033349, index is 4102.
+[ INFO] [1652632172.557314056]:       detect reflect position is 1.201826, 0.932231, index is 4356.
+[ INFO] [1652632172.557327735]:       detect reflect position is 0.684387, 0.840637, index is 4617.
+[ INFO] [1652632172.557350898]:       detect reflect position is -0.155173, 1.170761, index is 5551.
+pos1:
+[ INFO] [1652632147.197746455]:       detect reflect position is 0.301827, -0.627150, index is 2314.
+[ INFO] [1652632147.197803482]:       detect reflect position is 1.007372, -0.431760, index is 3136.
+[ INFO] [1652632147.197841278]:       detect reflect position is 1.507943, -0.013160, index is 3590.
+[ INFO] [1652632147.197860626]:       detect reflect position is 1.560963, 0.741200, index is 4108.
+[ INFO] [1652632147.197900756]:       detect reflect position is 1.175835, 1.056870, index is 4439.
+[ INFO] [1652632147.197945158]:       detect reflect position is 0.200932, 0.925438, index is 5155.
+[ INFO] [1652632147.197966158]:       detect reflect position is -0.288047, 0.838927, index is 5779.
+[ INFO] [1652632147.197985723]:       detect reflect position is -1.171359, 1.173406, index is 6299.
